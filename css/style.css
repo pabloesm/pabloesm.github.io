@@ -32,15 +32,15 @@
     text-align: center;
 }
 
-.preview {
-    border: 1px solid #ccc;
-    width: 300;
-}
-
 .thumbnail {
     padding: 10px 40px 10px 40px;
     display: inline-block;
     position: relative;
+}
+
+.preview {
+    border: 1px solid #ccc;
+    width: 300px;
 }
 
 .odd-thumbnail {
